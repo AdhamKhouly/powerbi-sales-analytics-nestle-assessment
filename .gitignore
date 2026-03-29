@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
+
+# Power BI temp/autosave
+*.pbix.autosave
